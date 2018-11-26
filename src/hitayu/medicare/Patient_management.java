@@ -78,7 +78,7 @@ public class Patient_management extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Customer Management");
+        setTitle("Patient Management");
         setMinimumSize(new java.awt.Dimension(910, 490));
         getContentPane().setLayout(null);
 
